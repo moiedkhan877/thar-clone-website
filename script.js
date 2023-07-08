@@ -14,6 +14,7 @@ cross.addEventListener("click", function () {
     full.style.top = "-100%";
     full.background = "blue"
     menu.innerHTML =' <i class="ri-menu-3-line"></i>';
-    flag = 0
-  }
+    flag = 0 
+  };
+  
 });
